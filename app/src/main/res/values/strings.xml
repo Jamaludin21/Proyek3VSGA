@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proyek3VSGA</string>
+    <string name="splash">logo</string>
+    <string name="Title_splash">PROYEK 3</string>
+    <string name="btn_login">login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logo">logo</string>
+    <string name="my_username">Jamaludin21</string>
+    <string name="my_password">bekasi21</string>
+    <string name="email">Email</string>
+    <string name="btn_regist">Register</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="btn_register">Regist Now</string>
+    <string name="alamat">Alamat</string>
+    <string name="logout">Logout</string>
+</resources>
